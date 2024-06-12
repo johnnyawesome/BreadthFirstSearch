@@ -1,6 +1,6 @@
 # Breadth First Search
 
-The Breadth First Search Algorithm, written in P5JS!
+The [Breadth First Search Algorithm](https://en.wikipedia.org/wiki/Breadth-first_search), written in [P5JS](https://p5js.org/)!
 
 ![Breadth First Search](https://raw.githubusercontent.com/johnnyawesome/BreadthFirstSearch/main/BreadthFirstSearch/DemoImages/BreadthFirstSearch.gif)
 
